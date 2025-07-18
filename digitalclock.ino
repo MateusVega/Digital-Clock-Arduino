@@ -166,6 +166,7 @@ void verify_buttons() {
       }
       tasks[MAX_TASKS - 1][0] = '\0';
       taskCount--;
+      task_selection = 0;
       scene_changed = true;
     } else if (current_scene == TODO_KEYBOARD) {
       if (selectionX == 3 && selectionY == 3 && text.length() < 9){

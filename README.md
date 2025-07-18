@@ -6,7 +6,7 @@ This project is a simple yet powerful interface built with an Arduino, designed 
 
 ## 📸 Demo Preview
 
-![Demo GIF]()
+![Demo GIF](demo.gif)
 
 ---
 
@@ -45,13 +45,13 @@ This project is a simple yet powerful interface built with an Arduino, designed 
 
 ## 📷 Breadboard View
 
-![Breadboard Diagram]()
+![Breadboard Diagram](breadboard.png)
 
 ---
 
 ## 🗺️ Schematic View
 
-![Schematic Diagram]()
+![Schematic Diagram](schematic.png)
 
 ---
 
